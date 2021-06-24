@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 10, 2021, 9:26:36 PM
+    Author     : Admin
+*/
+
+.PreHeader{
+    display: flex;
+    background-color:#2b281e;
+    width:1000px;
+}
+.PreHeader a{
+    
+    color: white;
+    text-decoration: none;
+}
+.header{
+    width:1000px;
+    display: flex;
+    background-color: #5c1c1c;
+}
+.image img{
+    padding: 26px;
+    width: 63px;
+    height: 60px;
+}
+h1{
+    height: 22px;
+}
+h1,h3{
+    color: white;
+}
